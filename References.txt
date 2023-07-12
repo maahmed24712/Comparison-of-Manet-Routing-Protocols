@@ -1,0 +1,7 @@
+References
+NS3. (2022). What is NS3?. [online] Available from: https://www.nsnam.org/about/what-is-ns-3/  [Accessed 16/10/22]
+Technosilent, (2020). NS3 Analysis: Throughput, Delay, jitter, Packet loss ratio, Packet delivery ratio. [online] Available from: https://www.youtube.com/watch?v=3RhNXxb9FQA [Accessed 25/11/22]
+NS3(2022). First.cc. . [online] Available from: https://www.nsnam.org/docs/release/3.19/doxygen/first_8cc_source.html  [Accessed 2/11/22]
+NS3 (2022). Third.cc. . [online] Available from: https://www.nsnam.org/docs/release/3.19/doxygen/third_8cc_source.html [Accessed 4/11/22]
+James R, James P.G S (2011). manet-routing-compare.cc. . [online] Available from: https://www.nsnam.org/docs/release/3.19/doxygen/manet-routing-compare_8cc.html [Accessed 4/11/22]
+The following references are used for the code of the project. Highlighted in the final year report, the flow monitor section was accessed from (Technosilent, 2020).
