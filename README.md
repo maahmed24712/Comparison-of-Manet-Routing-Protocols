@@ -30,4 +30,4 @@ The NS3 project aims to study the performance characteristics of a mobile ad hoc
 
 The project utilizes the NS3 simulation framework, a widely used platform for network research and analysis. It leverages the following NS3 modules: Core, Point-to-Point, Network, Applications, Mobility, Internet, YANS-Wifi, Flow Monitor, AODV, OLSR, DSDV, DSR, Traffic Control, and NetAnim.
 
-Upon executing the program, the user is prompted to input the desired number of nodes in the network and select a routing protocol (AODV, DSDV, or OLSR). The simulation then creates a MANET with the specified number of nodes, assigns IP addresses, and deploys the chosen routing protocol. It also sets up a UDP server and initiates UDP 
+Upon executing the program, the user is prompted to input the desired number of nodes in the network and select a routing protocol (AODV, DSDV, or OLSR). The simulation then creates a MANET with the specified number of nodes, assigns IP addresses, and deploys the chosen routing protocol.
